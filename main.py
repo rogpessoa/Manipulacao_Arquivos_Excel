@@ -14,8 +14,7 @@ from openpyxl.workbook import Workbook
 from classes import LeitorAcoes, GerenciadorPlanilha, PropriedadeSerieGrafico
 
 try:
-    # acao = input('Qual ação você deseja processar? ').upper()
-    acao = 'BIDI4'
+    acao = input('Qual ação você deseja processar? ').upper()
     leitor_acoes = LeitorAcoes(caminho_arquivo='./dados/')
     leitor_acoes.processa_arquivo(acao)
 
