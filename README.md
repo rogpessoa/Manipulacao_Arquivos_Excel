@@ -10,5 +10,5 @@ Par o correto funcionamento do projeto é necessário baixar a pasta contendo as
 Para utilização do projeto é necessário digitar a sigla da ação desejada, após digitar será gerado um aruqivo Excel
 com um gráfico.
 
-##### **Projeto em execução** <h5>
+##### **Projeto em Execução** <h5>
 ![Ação](./planilha.jpg)
